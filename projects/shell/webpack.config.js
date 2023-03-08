@@ -38,9 +38,9 @@ module.exports = {
         // },        
         
         // For hosts (please adjust)
-        remotes: {
+        /*remotes: {
           "mfeBasket": "http://localhost:4201/remoteEntry.js",
-        },
+        }, */
 
         shared: share({
           "@angular/core": { singleton: true, strictVersion: true, requiredVersion: 'auto' }, 
